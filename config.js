@@ -25,8 +25,6 @@ System.config({
     "babel": "npm:babel-core@5.6.15",
     "babel-runtime": "npm:babel-runtime@5.6.15",
     "bootstrap": "github:twbs/bootstrap@3.3.5",
-    "ceoaliongroo/aurelia-leaflet": "github:ceoaliongroo/aurelia-leaflet@0.0.3",
-    "cesiumjs": "npm:cesiumjs@1.10.0",
     "core-js": "npm:core-js@0.9.18",
     "css": "github:systemjs/plugin-css@0.1.13",
     "font-awesome": "npm:font-awesome@4.3.0",
@@ -338,15 +336,6 @@ System.config({
     },
     "npm:inherits@2.0.1": {
       "util": "github:jspm/nodelibs-util@0.1.0"
-    },
-    "npm:leaflet@0.7.3": {
-      "buffer": "github:jspm/nodelibs-buffer@0.1.0",
-      "crypto": "github:jspm/nodelibs-crypto@0.1.0",
-      "fs": "github:jspm/nodelibs-fs@0.1.2",
-      "path": "github:jspm/nodelibs-path@0.1.0",
-      "process": "github:jspm/nodelibs-process@0.1.1",
-      "util": "github:jspm/nodelibs-util@0.1.0",
-      "zlib": "github:jspm/nodelibs-zlib@0.1.0"
     },
     "npm:leaflet@1.0.0-beta.1": {
       "buffer": "github:jspm/nodelibs-buffer@0.1.0",
