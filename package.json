@@ -1,22 +1,22 @@
 {
-  "name": "aurelia-skeleton-navigation",
-  "version": "0.15.1",
-  "description": "A starter kit for building a standard navigation-style app with Aurelia.",
+  "name": "aurelia-maps",
+  "version": "0.0.1",
+  "description": "Aurelia with Cesium Map and Leaflet.",
   "keywords": [
     "aurelia",
-    "navigation",
-    "skeleton"
+    "leaflet",
+    "cesium"
   ],
   "homepage": "http://aurelia.io",
   "bugs": {
-    "url": "https://github.com/aurelia/skeleton-navigation/issues"
+    "url": "https://github.com/mchoy/aurelia-maps/issues"
   },
   "license": "MIT",
-  "author": "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)",
+  "author": "Melissa Choy <melissa_choy@yahoo.com>",
   "main": "dist/commonjs/index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/aurelia/skeleton-navigation"
+    "url": "http://github.com/mchoy/aurelia-maps"
   },
   "devDependencies": {
     "aurelia-cli": "^0.2.1",
@@ -56,8 +56,6 @@
       "aurelia-http-client": "github:aurelia/http-client@^0.10.0",
       "aurelia-router": "github:aurelia/router@^0.10.0",
       "bootstrap": "github:twbs/bootstrap@^3.3.4",
-      "ceoaliongroo/aurelia-leaflet": "github:ceoaliongroo/aurelia-leaflet@^0.0.3",
-      "cesiumjs": "npm:cesiumjs@^1.10.0",
       "core-js": "npm:core-js@^0.9.18",
       "css": "github:systemjs/plugin-css@^0.1.11",
       "font-awesome": "npm:font-awesome@^4.3.0",
